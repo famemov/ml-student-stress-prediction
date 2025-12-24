@@ -1,4 +1,4 @@
-<img width="585" height="439" alt="изображение" src="https://github.com/user-attachments/assets/8c6418f3-d24b-4550-bc70-a6c01847fd47" /># ml-student-stress-prediction
+# ml-student-stress-prediction
 A TensorFlow-based fully connected neural network for predicting student stress levels based on academic workload and sleep patterns
 
 # Разработка нейронной сети для прогнозирования уровня стресса студентов
